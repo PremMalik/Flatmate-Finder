@@ -133,7 +133,7 @@ Feel free to fork this repository and submit pull requests for improvements or n
 ## 🧑‍💻 Author
 
 **Prem Malik**
-💼 [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/prem-malik/)) | 🐙 [GitHub](https://github.com/PremMalik)
+💼 [LinkedIn](https://www.linkedin.com/in/prem-malik/) | 🐙 [GitHub](https://github.com/PremMalik)
 
 ---
 
