@@ -60,11 +60,6 @@ RoommateFinder/
 - MongoDB running locally
 - Google Cloud Console project with OAuth2 credentials
 
-### 2️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/roommate-finder-backend.git
-cd roommate-finder-backend
-````
 
 ### 3️⃣ Add Configuration
 
