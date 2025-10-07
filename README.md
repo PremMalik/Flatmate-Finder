@@ -1,8 +1,4 @@
-Here’s a well-structured **README.md** you can directly use in your GitHub repo 👇
 
----
-
-```markdown
 # 🏠 Roommate Finder — Spring Boot Backend
 
 A simple and functional backend built with **Spring Boot** and **MongoDB** for a Roommate Finder application.  
